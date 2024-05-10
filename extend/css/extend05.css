@@ -22,9 +22,17 @@ body {
 }
 
 /* sticky */
+nav{
+    position: -webkit-sticky;
+}
 
 
 /* relative */
+div {
+    position: relative;
+    top:90px;
+    left:30px;
+}
 
 
 /* fixed */
