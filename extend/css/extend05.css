@@ -36,6 +36,16 @@ body {
 
 
 /* fixed */
-
+.div-3{
+    position: fixed;
+    top:90px;
+    right:10px;
+}
 
 /* absolute */
+div-4{
+    position: absolute;
+    bottom: 0px;
+    right:0px;
+    
+}
