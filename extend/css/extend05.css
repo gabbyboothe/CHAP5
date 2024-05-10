@@ -22,13 +22,13 @@ body {
 }
 
 /* sticky */
-nav{
+.div-1{
     position: -webkit-sticky;
 }
 
 
 /* relative */
-div {
+.div-2{
     position: relative;
     top:90px;
     left:30px;
